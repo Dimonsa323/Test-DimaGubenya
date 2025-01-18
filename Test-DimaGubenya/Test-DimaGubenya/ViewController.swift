@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var count = 10
 
     override func viewDidLoad() {
         super.viewDidLoad()
